@@ -1,0 +1,2 @@
+image input -> some preprocessing -> faceboxes -> make the dimension correct -> facenet
+-> create embeddings -> svm/knn -> applications (face classification, recognition, clustering).
